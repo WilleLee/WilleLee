@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilleLee
 - 👀 I’m interested in Front-end development in general and theories of modern to pre-contemporary philosophers such as Kant, Hegel or Nietzsche.
-- 🌱 I’m currently learning detailed uses of Javascript React.js.
+- 🌱 I’m currently learning detailed uses of Javascript React.js, and looking for a job as a junior front-end crew.
 - 📫 Please contact me with any interests via e-mail to 1992season@gmail.com.
 
 <!---
