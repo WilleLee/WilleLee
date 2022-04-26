@@ -9,14 +9,6 @@ WilleLee/WilleLee is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h4>🏠 Visit me through ...</h4>
-
-<a href="https://github.com/WilleLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
-<a href="https://medium.com/@1992season" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=FFFFFF"/></a>
-
-<h4>💌 Reach me via ...</h4>
-
-<a href="mailto:1992season@gmail.com" target="_blank"><img src="https://img.shields.io/badge/1992season@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
 
@@ -36,3 +28,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilleLee&show_icons=true&theme=dark)
+
+
+<h4>🏠 Visit me through ...</h4>
+
+<a href="https://github.com/WilleLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
+<a href="https://medium.com/@1992season" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=FFFFFF"/></a>
+
+<h4>💌 Reach me via ...</h4>
+
+<a href="mailto:1992season@gmail.com" target="_blank"><img src="https://img.shields.io/badge/1992season@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
