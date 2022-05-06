@@ -1,8 +1,14 @@
 ## 🧑🏻‍🔧 프로필 공사중 🛠
 
-- 👋 Hi, I’m @WilleLee, living in Gyeonggi, South Korea.
-- 👀 I’m interested in Front-End development in general and theories of modern to pre-contemporary philosophers such as Kant, Hegel or Nietzsche.
-- 🌱 I’m currently learning detailed theories on JavaScript as well as uses of React.js and node.js, and looking for a job as a junior front-end crew.
+<h3 align="center"> 📌 CURRENTLY 👀 </h3>
+
+<div align="center">
+  <p>learning <a href="https://github.com/WilleLee/practice-react-shop"><strong>react.js</strong></a> and preparing for <strong>GSAT</strong> 📖 </p>
+</div>
+
+---
+
+
 
 <!---
 WilleLee/WilleLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  
+
 
 <h3 align="center">🧑🏻‍💻 Stacks Available 🧑🏻‍💻</h3>
 
@@ -41,6 +47,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/WilleLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
   <a href="https://medium.com/@1992season" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=FFFFFF"/></a>
 </div>
+
+---
 
 
 <div align="center">
