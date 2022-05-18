@@ -3,7 +3,7 @@
 <h3 align="center"> 📌 CURRENTLY 👀 </h3>
 
 <div align="center">
-  <p>learning <a href="https://github.com/WilleLee/practice-react-shop"><strong>react.js</strong></a> and preparing for <strong>GSAT</strong> 📖 </p>
+  <p>learning <a href="https://github.com/WilleLee/practice-wetube"><strong>node.js</strong></a> 📖 </p>
 </div>
 
 ---
