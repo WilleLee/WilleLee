@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://willelee.github.io/practice-react-shop/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/></a>
   <a href="https://github.com/WilleLee/typescript-class" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/></a>
   <a href="https://github.com/WilleLee/practice-wetube" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/></a>
-  
+  <a href="https://replit.com/@WilleLee/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 </div>
 
 
