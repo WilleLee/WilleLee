@@ -1,7 +1,7 @@
 <h3 align="center"> 📌 CURRENTLY 👀 </h3>
 
 <div align="center">
-  <p>learning <a href="https://github.com/WilleLee/practice-wetube"><strong>express in node.js</strong></a> 📖 </p>
+  <p>learning <a href="https://github.com/WilleLee/practice-wetube"><strong>express, mongoDB and mongoose using node.js</strong></a> 📖 </p>
 </div>
 
 ---
