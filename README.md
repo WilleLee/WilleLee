@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <strong>
-      <a href="https://willelee.github.io/plan-your-day/">Project: Plan Your Day</a>
+      <a href="https://github.com/WilleLee/plan-your-day">Project: Plan Your Day</a>
     </strong>
     <br>
     <strong>
