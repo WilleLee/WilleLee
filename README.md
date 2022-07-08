@@ -1,8 +1,14 @@
 <h3 align="center"> 📌 CURRENTLY 👀 </h3>
 <div align="center">
-  <p><strong>
-    <a href="https://willelee.github.io/plan-your-day/">Project: Plan Your Day</a>
-  </strong></p>
+  <p>
+    <strong>
+      <a href="https://willelee.github.io/plan-your-day/">Project: Plan Your Day</a>
+    </strong>
+    <br>
+    <strong>
+      <a href="https://github.com/WilleLee/redux-practice">Learning: Redux</a>
+    </strong>
+  </p>
 </div>
 
 ---
