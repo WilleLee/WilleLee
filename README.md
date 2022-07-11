@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://willelee.github.io/practice-react-shop/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/></a>
   <a href="https://github.com/WilleLee/sass-practice" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=FFFFFF"/></a>
   <a href="https://github.com/WilleLee/redux-practice" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=FFFFFF"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/></a>
 </div>
 
 
