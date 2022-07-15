@@ -1,12 +1,16 @@
-<h3 align="center"> 📌 CURRENTLY 👀 </h3>
+<h3 align="center"> 📌 CURRENTLY DOING 👀 </h3>
 <div align="center">
   <p>
     <strong>
-      <a href="https://github.com/WilleLee/plan-your-day">Project: Plan Your Day</a>
+      Project: <a href="https://github.com/WilleLee/plan-your-day">Plan Your Day</a>
     </strong>
     <br>
     <strong>
-      Learning: <a href="https://github.com/WilleLee/redux-practice">Redux</a>, <a href="https://github.com/WilleLee/practice-wetube">Express</a>
+      Learning: <a href="https://github.com/WilleLee/practice-wetube">Express</a>
+    </strong>
+    <br>
+    <strong>
+      Posts on Details: Go visit <a href="https://medium.com/@1992season">Medium</a>
     </strong>
   </p>
 </div>
@@ -25,16 +29,18 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3 align="center">🧑🏻‍💻 Stacks Available 🧑🏻‍💻</h3>
-<p align="center">Click the icons to browse what I've done👇🏻</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
   <a href="https://willelee.github.io/nomadKokoatalk/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></a>
   <a href="https://willelee.github.io/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/></a>
   <a href="https://willelee.github.io/practice-react-shop/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/></a>
+</div>
+<div align="center">
   <a href="https://github.com/WilleLee/sass-practice" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=FFFFFF"/></a>
   <a href="https://github.com/WilleLee/redux-practice" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=FFFFFF"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=FFFFFF"/></a>
 </div>
 
 
