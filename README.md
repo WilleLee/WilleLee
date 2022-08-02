@@ -6,7 +6,7 @@
     </strong>
     <br>
     <strong>
-      Learning: <a href="https://github.com/WilleLee/practice-wetube">Express</a>, <a href="https://medium.com/@1992season/ways-to-deal-with-types-in-typescript-283cf8b40690">TypeScript</a>
+      Learning: <a href="https://github.com/WilleLee/practice-wetube">Express</a>, <a href="https://medium.com/@1992season/make-blueprints-for-objects-in-typescript-98ac0805fcd4">TypeScript</a>
     </strong>
     <br>
     <strong>
