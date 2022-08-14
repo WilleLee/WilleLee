@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <strong>
-      Project: <a href="https://github.com/WilleLee/plan-your-day">Plan Your Day</a>
+      Project: <a href="https://medium.com/@1992season/handle-crud-in-express-js-d49b5f85d4d0">CRUD in expressjs</a> <a href="https://github.com/WilleLee/plan-your-day">Plan Your Day</a>
     </strong>
     <br>
     <strong>
