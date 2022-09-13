@@ -4,7 +4,7 @@
 <div>
   <p>
     <strong>
-      🛠 <a href="https://vanilla-wizard-5ea.notion.site/42ad1d61285c4263a2450dea62cc2c3d">개발 이력서</a> (ing...)
+      🛠 <a href="https://vanilla-wizard-5ea.notion.site/42ad1d61285c4263a2450dea62cc2c3d">개발 이력서</a> (한글)
     </strong>
     <br>
     <strong>
