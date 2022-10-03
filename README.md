@@ -8,7 +8,7 @@
     </strong>
     <br>
     <strong>
-      Projects: <a href="https://github.com/WilleLee/nextjs-practice">Movies thru Next.js</a>, <a href="https://github.com/WilleLee/plan-your-day">Plan Your Day</a>
+      Projects: <a href="https://github.com/WilleLee/express-challenges">ExpressTube</a>, <a href="https://github.com/WilleLee/nextjs-practice">Movies thru Next.js</a>, <a href="https://github.com/WilleLee/plan-your-day">Plan Your Day</a>
     </strong>
     <br>
     <strong>
