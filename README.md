@@ -1,4 +1,4 @@
-# Developer That Helps Himself
+# Web Front-end Developer That Helps Himself
 
 ### 📌 CURRENTLY
 <div>
