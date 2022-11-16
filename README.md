@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### 🧑🏻‍🔧 Skills Available
+### 🧑🏻‍🔧 Skills Available & Experienced
 
 
 languages | front-end | back-end
