@@ -8,10 +8,6 @@
     </strong>
     <br>
     <strong>
-      Projects: <a href="https://github.com/WilleLee/rok-supporter">ROK Supporter</a>(🛠ing...)
-    </strong>
-    <br>
-    <strong>
       Posts on Details: Go visit <a href="https://medium.com/@1992season">Medium</a>
     </strong>
   </p>
