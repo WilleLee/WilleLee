@@ -4,12 +4,11 @@
 
 ---
 
-### Skills
-
+### What I use
 
 Languages | Speciality
----|---|
-![a](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF) ![b](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF)|![a](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF) ![b](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF) 
+|---|---|
+![a](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000) ![b](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF) ![c](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=FFFFFF) | ![a](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=000000) ![b](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF) 
 
 ### Reach me via&hellip;
 
