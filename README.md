@@ -1,7 +1,9 @@
 # helloBeautifulWorld
 
 ✅ [Wille logs...](https://wille-logs.vercel.app/)
-🛠 [LOA IN](https://github.com/KwanjungKim/Loa-project)
+🛠 [Wille logs repository](https://github.com/WilleLee/wille_logs)
+
+🛠 [LOA IN repository](https://github.com/KwanjungKim/Loa-project) (NOT on service yet)
 
 ---
 
