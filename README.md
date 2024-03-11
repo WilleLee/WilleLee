@@ -1,6 +1,7 @@
 # helloBeautifulWorld
 
-🛠 [Wille logs...](https://wille-logs.vercel.app/)
+✅ [Wille logs...](https://wille-logs.vercel.app/)
+🛠 [LOA IN](https://github.com/KwanjungKim/Loa-project)
 
 ---
 
