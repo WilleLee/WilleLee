@@ -5,6 +5,8 @@
 
 🛠 [LOA IN repository](https://github.com/KwanjungKim/Loa-project) (NOT on service yet)
 
+📝 [개발이력서](https://vanilla-wizard-5ea.notion.site/Readable-Code-Stable-Maintenance-1620cf204dbf49ac988e1d9337d7b341)
+
 ---
 
 ### What I use
