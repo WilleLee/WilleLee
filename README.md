@@ -1,6 +1,7 @@
 
 <div align="center">
 <img style="width: 20%;" src="https://github.com/WilleLee/docs/blob/main/assets/Nietzsche%20187a.jpg?raw=true" />
+  &larr; my boyfriend
 </div>
 
 ## Careers
