@@ -1,9 +1,4 @@
-# following Wille zur Macht
-
-<img width="180" src="https://github.com/WilleLee/docs/blob/main/assets/Nietzsche%20187a.jpg?raw=true" />
-
-
-<!-- 📝 [개발이력서](https://vanilla-wizard-5ea.notion.site/Readable-Code-Stable-Maintenance-1620cf204dbf49ac988e1d9337d7b341) -->
+<img style="width: 20%;" src="https://github.com/WilleLee/docs/blob/main/assets/Nietzsche%20187a.jpg?raw=true" />
 
 ## Careers
 
@@ -18,7 +13,7 @@
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=000000)
 ![tailwind css](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
 
-- deep-dived into data structures, programming methodologies, teaming, fundamentals of SPA frameworks and more
+- deep-dived into data structures, programming methodologies, teaming, fundamentals of SPA frameworks, and more
 - currently working on a team project that aims to service a live-streaming web program
 
 ### Newlink/Cashierest (01.2023 ~ 10.2023)
@@ -79,13 +74,24 @@ Languages | Speciality
 
 -->
 
-## Reach me via&hellip;
+<h2 align="left">Hey, it's Wille!</h2>
+
+<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleLee&show_icons=true&locale=en&layout=compact&theme=onedark" alt="WilleLee" />
+
+<ul align="left">
+  <li>✉️ Reach me via <a href="mailto:1992season@gmail.com" target="_blank">gmail</a></li>
+  <li>Details on my career <a href="https://www.linkedin.com/in/inpyo-lee-24b9aa292/" target="_blank">here</a></li>
+</ul>
+
+
 
 <!--
 <a href="https://www.instagram.com/wille_lee_reactive/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 -->
+<!--
 <a href="mailto:1992season@gmail.com" target="_blank"><img src="https://img.shields.io/badge/1992season@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/wille_lee_reactive/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
+-->
 <!--
 <a href="https://github.com/WilleLee" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 <a href="https://medium.com/@1992season" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=FFFFFF"/></a>
