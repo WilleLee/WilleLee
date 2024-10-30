@@ -1,4 +1,7 @@
+
+<div align="center">
 <img style="width: 20%;" src="https://github.com/WilleLee/docs/blob/main/assets/Nietzsche%20187a.jpg?raw=true" />
+</div>
 
 ## Careers
 
@@ -26,6 +29,8 @@
 
 - developed the web frontend of a cryptocurrency market service
 - focused on managing real-time state updates via web socket and redux, then visualizing them into chart formats
+
+<br>
 
 <!--
 next
@@ -79,8 +84,10 @@ Languages | Speciality
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleLee&show_icons=true&locale=en&layout=compact&theme=onedark" alt="WilleLee" />
 
 <ul align="left">
-  <li>✉️ Reach me via <a href="mailto:1992season@gmail.com" target="_blank">gmail</a></li>
-  <li>Details on my career <a href="https://www.linkedin.com/in/inpyo-lee-24b9aa292/" target="_blank">here</a></li>
+  <li>✉️ Please, reach me via <a href="mailto:1992season@gmail.com" target="_blank">gmail</a></li>
+  <li>🔍 details on my career <a href="https://www.linkedin.com/in/inpyo-lee-24b9aa292/" target="_blank">here</a></li>
+  <li>🗣️ like to speak in Typescript and to build web worlds using React</li>
+  <li>❤️‍🔥 interested in European modern to contemporary philosophical ideas</li>
 </ul>
 
 
