@@ -27,6 +27,7 @@
 ![next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000)
 ![styled components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=FFFFFF)
+![sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=FFFFFF)
 
 - developed the web frontend of a cryptocurrency market service
 - focused on managing real-time state updates via web socket and redux, then visualizing them into chart formats
