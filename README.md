@@ -6,7 +6,7 @@
 
 ## Careers
 
-### Boostcamp, Naver Connect (06.2024 ~)
+### Boostcamp, Naver Connect (06.2024 ~ 12.2024)
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
@@ -18,7 +18,7 @@
 ![tailwind css](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
 
 - deep-dived into data structures, programming methodologies, teaming, fundamentals of SPA frameworks, and more
-- currently working on a team project that aims to service a live-streaming web program
+- worked on frontend dev of a team project called Funch, which aims to service a live-streaming web program
 
 ### Newlink/Cashierest (01.2023 ~ 10.2023)
 
