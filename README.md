@@ -18,7 +18,7 @@
 ![tailwind css](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
 
 - deep-dived into data structures, programming methodologies, teaming, fundamentals of SPA frameworks, and more
-- worked on frontend dev of a team project called Funch, which aims to service a live-streaming web program
+- worked on frontend dev of a team project called Funch, which aims to service a live-streaming web service
 
 ### Newlink/Cashierest (01.2023 ~ 10.2023)
 
