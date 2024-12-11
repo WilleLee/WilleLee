@@ -6,6 +6,10 @@
 
 ## Careers
 
+### Peach AI (12.2024 ~ )
+
+- frontend engineer
+
 ### Boostcamp, Naver Connect (06.2024 ~ 12.2024)
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF)
