@@ -12,28 +12,13 @@
 
 ### Boostcamp, Naver Connect (06.2024 ~ 12.2024)
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
-![next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000)
-![express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=FFFFFF)
-![vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=FFFFFF)
-![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=000000)
-![tailwind css](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
-
-- deep-dived into data structures, programming methodologies, teaming, fundamentals of SPA frameworks, and more
-- worked on frontend dev of a team project called Funch, which aims to service a live-streaming web service
+- trainee, full-stack-oriented web engineering
+- frontend of a live-streaming web service
 
 ### Newlink/Cashierest (01.2023 ~ 10.2023)
 
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
-![next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000)
-![styled components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=FFFFFF)
-![sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=FFFFFF)
-
-- developed the web frontend of a cryptocurrency market service
-- focused on managing real-time state updates via web socket and redux, then visualizing them into chart formats
+- frontend engineer
+- web service of cryptocurrency exchanges
 
 <br>
 
