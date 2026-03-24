@@ -8,7 +8,7 @@
 
 ### Peach AI (12.2024 ~ )
 
-- frontend engineer
+- product engineer
 
 ### Boostcamp, Naver Connect (06.2024 ~ 12.2024)
 
