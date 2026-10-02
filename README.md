@@ -71,16 +71,6 @@ Languages | Speciality
 
 -->
 
-<h2 align="left">Hey, it's Wille!</h2>
-
-<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilleLee&show_icons=true&locale=en&layout=compact&theme=onedark" alt="WilleLee" />
-
-<ul align="left">
-  <li>✉️ Please, reach me via <a href="mailto:1992season@gmail.com" target="_blank">gmail</a></li>
-  <li>🔍 details on my career <a href="https://www.linkedin.com/in/inpyo-lee-24b9aa292/" target="_blank">here</a></li>
-  <li>🗣️ like to speak in Typescript and to build web worlds using React</li>
-  <li>❤️‍🔥 interested in European modern to contemporary philosophical ideas</li>
-</ul>
 
 
 
@@ -96,10 +86,4 @@ Languages | Speciality
 <a href="https://medium.com/@1992season" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=FFFFFF"/></a>
 -->
 
-<!--
----
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilleLee&show_icons=true&theme=dark)
--->
 
