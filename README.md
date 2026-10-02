@@ -9,11 +9,12 @@
 ### Peach AI (12.2024 ~ )
 
 - product engineer
+- vision AI driven digital OOH solutions
 
 ### Newlink/Cashierest (01.2023 ~ 10.2023)
 
 - frontend engineer
-- web service of cryptocurrency exchanges
+- cryptocurrency exchanges
 
 ## Training
 
