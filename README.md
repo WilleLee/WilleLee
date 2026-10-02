@@ -10,15 +10,17 @@
 
 - product engineer
 
-### Boostcamp, Naver Connect (06.2024 ~ 12.2024)
-
-- trainee, full-stack-oriented web engineering
-- frontend of a live-streaming web service
-
 ### Newlink/Cashierest (01.2023 ~ 10.2023)
 
 - frontend engineer
 - web service of cryptocurrency exchanges
+
+## Training
+
+### Boostcamp, Naver Connect (06.2024 ~ 12.2024)
+
+- trainee, full-stack-oriented web engineering
+- frontend of a live-streaming web service
 
 <br>
 
